@@ -45,3 +45,19 @@
     border: 3px solid rgb(98, 12, 69);
     border-radius: 50%;
 }
+
+.circle1{
+    border-radius:50%;
+    width:200px;
+    height: 200px;
+    position: absolute;
+    left: 150px;
+    border: 2px solid rgb(81, 15, 62);
+}
+.circle2{
+    border-radius:50%;
+    width:200px;
+    height: 200px;
+    border:2px solid rgb(81,15,62);
+    margin-left: 250px;
+}
