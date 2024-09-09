@@ -46,7 +46,7 @@
     border-radius: 50%;
 }
 
-.circle1{
+.cir1{
     border-radius:50%;
     width:200px;
     height: 200px;
@@ -54,7 +54,7 @@
     left: 150px;
     border: 2px solid rgb(81, 15, 62);
 }
-.circle2{
+.cir2{
     border-radius:50%;
     width:200px;
     height: 200px;
