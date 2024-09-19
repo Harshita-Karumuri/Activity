@@ -1,38 +1,37 @@
 .box{
-    height:500px;
-    width:500px;
+    height:200px;
+    width:200px;
     border: 3px solid rgb(88, 7, 86);
 }
 
 .box1{
-    height:250px;
-    width:250px;
+    height:100px;
+    width:100px;
     border: 3px solid rgb(27, 207, 42);
-    margin-left: 100px;
-    margin-top:100px;
+    margin-left: 45px;
+    margin-top:30px;
 
 }
 .circle{
     border:3px solid blue;
-    height: 125px;
-    width: 125px;
+    height: 50px;
+    width: 50px;
     border-radius: 50%;
-    margin-left: 60px;
-    margin-top: 45px;
+    margin-left: 23px;
+    margin-top: 5px;
 
 }
 .outer{
-    width: 500px;
-    height: 500px;
+    width: 200px;
+    height: 200px;
     border:3px solid red;
-    padding: 20px;
     display:flex;
     justify-content: center;
     align-items: center;
 }
 .inner{
-    width: 350px;
-    height: 350px;
+    width: 100px;
+    height: 100px;
     border: 3px solid rgb(5, 53, 5);
     background-color: #fff;
     display: flex;
@@ -40,24 +39,40 @@
     justify-content: center;
 }
 .Circle{
-    width: 250px;
-    height: 250px;
+    width: 50px;
+    height: 50px;
     border: 3px solid rgb(98, 12, 69);
     border-radius: 50%;
 }
 
 .circle11{
     border-radius:50%;
-    width:200px;
-    height: 200px;
+    width:100px;
+    height: 100px;
     position: absolute;
-    left: 150px;
     border: 2px solid rgb(81, 15, 62);
 }
 .circle22{
     border-radius:50%;
-    width:200px;
-    height: 200px;
+    width:100px;
+    height:100px;
     border:2px solid rgb(81,15,62);
-    margin-left: 250px;
+    margin-left: 50px;
+}
+.button{
+    width:150px;
+    height:50px;
+    background-color: green;
+    color:#fff;
+    box-sizing: border-box;
+    padding-left: 50px;
+    padding-top: 15px;
+}
+.triangle{
+    width:0;
+    height: 0;
+    border-left: 25px solid transparent;
+    border-right:25px solid transparent ;
+    border-bottom: 50px solid blue;
+    margin-left: 100px;
 }
