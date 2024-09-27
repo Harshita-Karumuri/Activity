@@ -107,9 +107,9 @@
     border: 3px solid green;
     position: absolute;
 }
-.round1{
+.round{
     border-radius: 50%;
-    border:3px solid rgb(187, 59, 81);
+    border:3px solid rgb(186, 37, 62);
     width:100px;
     height: 100px;
     margin-left:70px;
